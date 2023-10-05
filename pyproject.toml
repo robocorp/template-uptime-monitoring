@@ -1,0 +1,9 @@
+[tool.robo]
+name = "Uptime monitoring"
+description = "This automation retrieves a list of websites to monitor from the assets storage and pings them."
+python = "3.9.13"
+
+[tool.robo.dependencies]
+robocorp-tasks="2.2.0"
+robocorp-storage="1.0.0"
+robocorp-workitems="1.4.0"

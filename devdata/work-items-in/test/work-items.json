@@ -1,0 +1,10 @@
+[
+  {
+      "payload": {
+         "message": "Hello World!"
+      },
+      "files": {
+          "orders.xlsx": "orders.xlsx"
+      }
+  }
+]
